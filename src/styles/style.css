@@ -1,0 +1,29 @@
+* {
+    margin: 0;padding: 0;
+}
+
+header h1 {
+    font-size: 5rem;
+    width: 500px;
+    margin: 2rem auto;
+}
+
+header {
+    background-color: white;
+}
+
+img {
+    width: 100vw;
+    position:fixed;
+    bottom: 0;
+    /* clip-path: ellipse(20px 20px at 20% 20%);
+    clip-path: circle(20px at 20% 20%); */
+       /* clip-path: polygon(55% 31%, 75% 27%, 82% 42%, 66% 47%), (28% 40%, 40% 49%, 38% 61%, 25% 58%); */
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
