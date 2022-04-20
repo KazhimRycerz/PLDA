@@ -1,0 +1,58 @@
+//colors
+$first-color: rgb(240, 255, 255);
+$secondary-color: lemonchiffon;
+$third-color: rgba(30, 140, 160);
+$third-color-o: rgba(30, 140, 160, 0.5);
+$third-color-75: rgba(30, 140, 160, 0.75);
+/* $third-color: rgb(180, 200, 230); */
+$fourth-color: rgba(221, 155, 55, 0.2);
+$button-color: rgba(170, 170, 170, 0.75);
+$cpdred: rgb(125, 0, 0);
+$cpdred-o:rgba(125, 0, 0, 0.5);
+$cpdblue: rgb(0, 0, 50);
+
+//shadows
+$boxshadow: 0.5rem 0.5rem 2rem;
+$btnshadow: 0px 0px 10px 1px $cpdred-o inset, -2px -2px 5px 3px grey,  -5px -5px 5px white inset; 
+$rshadow: 3px 3px black, -3px -3px black, 3px -3px black, -3px 3px black;
+
+//backgroundcolours
+$grad: linear-gradient($third-color-o, $cpdred-o) fixed;
+
+/* textsizes*/
+$xxxlarge: 3rem;
+$xxlarge: 2.0rem;
+$xlarge: 1.5rem;
+$large: 1.2rem;
+$normal: 1.1rem;
+$small: 0.9rem;
+$xsmall: 0.75rem;
+$xxsmall: 0.5rem;
+/*$medium: 4rem;
+$large: 10rem;
+$huge: 20rem;
+
+$border-radius:*/
+$radiuslarge: 20px;
+$radiussmall:10px;
+$radiusxsmall:5px;
+
+/*Mediasetting*/
+$phone: 675px;
+$tablet: 760px;
+$desktop: 1024px; 
+$widedesktop: 2048px;
+$highres: 3000px;
+
+/* Fonts */
+$primary-font: "FoundSanExpNorm", sans-serif;
+$primary-font-bold: "FoundSanBd";
+$calli: "VIA-Verlag";
+$guthaben: "FallingSkyOu";
+
+/* logos */
+$logosize10: 10px;
+$logosize20: 20px;
+
+  
+  
